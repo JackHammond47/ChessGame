@@ -2,7 +2,7 @@
 
 This is a simple chess game, playable in the command line. The program is functional, however is missing some full feautures of chess due to time constraints. These include, castling, en-passent, upgrading pawns, and check/check-mate. The game is for 2 users and is played by having each player type the c,y coordinate of the peice they want to move and the x,y of where they want it to move. The program checks if the move is valid, moves the peice and deletes any captured peices. When one king is captured, one player wins.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/eC4Uq1lQrD4)
 
 # Development Environment
 
